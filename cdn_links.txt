@@ -3,6 +3,9 @@ https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Buddha%20Awakening.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/cdn_links.txt
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Christian%20Salvation%20Narratives.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Exodus%20Liberation.png
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Greek%20Ages%20of%20Man.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Hindu%20Pralaya%20Cycles.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Hindu%20Yuga%20Cycle.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Jesus%20the%20Redeemer.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Jesus-incarnation.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Kalki%20Advent%20Prophecy.jpg
@@ -11,10 +14,16 @@ https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Krishna%20Lila%20(Divine%2
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Krishna%20vs%20Kamsa.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Liberation%20in%20Indigenous%20Myths.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Maitreya%20Prophecy.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Mayan%20Calendar%20Ages.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Mayan%20End%20Cycles.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Mayan%20End%20Cycles.webp
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Moses%20Deliverer.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Moses%20Early%20Danger%20&%20Survival.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Nativity%20of%20Jesus.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Norse%20Cyclical%20Motifs.webp
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Norse%20Return%20of%20Baldr%20(prophetic%20motif).png
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Persian%20Deliverance%20Tales.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Rama%20Return%20(Rama%20Avatar).jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Samsara%20&%20Rebirth.jpg
 https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Sumerian%20Rescue%20Myths.jpg
+https://cdn.jsdelivr.net/gh/sameer-khan-a/images@main/Zoroastrian%20Cosmic%20Time.jpg
